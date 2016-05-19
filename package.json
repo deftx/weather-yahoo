@@ -24,5 +24,8 @@
     "yahoo weather",
     "yahoo weather api"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "got": "^6.3.0"
+  }
 }
